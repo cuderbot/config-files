@@ -1,0 +1,10 @@
+{
+  "folders": [
+    {
+      "path": "${HOME}/workspace/marketplace/api"
+    },
+    {
+      "path": "${HOME}/workspace/marketplace/frontend"
+    }
+  ]
+}
