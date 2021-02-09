@@ -1,10 +1,12 @@
 {
   "folders": [
     {
-      "path": "${HOME}/workspace/personal-webpage/frontend"
+      "name": "frontend",
+      "path": "../../personal-webpage/frontend"
     },
     {
-      "path": "${HOME}/workspace/personal-webpage/backend"
+      "name": "backend",
+      "path": "../../personal-webpage/backend"
     }
   ],
   "settings": {}
